@@ -10,5 +10,3 @@ Instructions:
 The folder "model" contains the models needed to test the data. This includes kmeans and the HMM.
 The file "Train.ipynb" contains my code that I wrote to train my models.
 The file "Test.ipynb" contains my code that I wrote to test my models.
-
-I updated the code to fix an error with calculating alpha
